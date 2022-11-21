@@ -1,0 +1,6 @@
+Case: Payment
+Url: https://playwright.dev/docs/api/class-playwright
+    Actions:
+        1. Navigate ()
+        2. Check (timeout:default, selector: default, text: BrowserServer)
+        3. Click (timeout:default, selector: default, text: BrowserServer)

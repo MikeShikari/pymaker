@@ -14,7 +14,8 @@ export class {self.name}Page {{
     const Page: Page
 }}
             """)
-
+## Добавить создание файла с данными по жсону и импорт данных с него в основной
+## Добавить генерацию жсона по тхт файлу
 
 p = Page("getAPILink", "https://playwright.dev/docs/api/class-playwright")
 p.MakeCarcass()
